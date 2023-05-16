@@ -1,6 +1,8 @@
 # 0x0D. SQL - Introduction
 This directory contains files created in response to tasks set forth in Holberton student project "0x0D. SQL - Introduction". These SQL scripts demonstrate a basic introduction to the creation, navigation, and manipulation of MySQL databases. 
 
+![sql](https://i.ytimg.com/vi/WVKEkY3FlP4/maxresdefault.jpg)
+
     Write a script that lists all databases of your MySQL server
     Write a script that creates the database `hbtn_0c_0` in your MySQL server
     Write a script that deletes the database `hbtn_0c_0` in your MySQL server
