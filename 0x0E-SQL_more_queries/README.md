@@ -5,7 +5,7 @@
 - `advanced queries`
 - `and joins`
 #
-![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeY9JL2hQz-EKoPHG_HksoKlY9Eg9Orf9bCg&usqp=CAU)
 <!-- #### Task 0: [0-privileges.sql] 
 * Write a script that lists all privileges of the MySQL users `user_0d_1` and `user_0d_2` on your server (in `localhost`)
 #### Task 1: [1-create_user.sql]
