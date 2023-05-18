@@ -1,7 +1,7 @@
 # -alx-higher_level_programming
 Higher level with python3
 
-![Python Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9o8tuDyHcEjTVmAQU7ugHp1I7XUGEz4ykvA&usqp=CAU)
+![Python Logo](https://wiki.python.org/wiki/europython/img/python-logo.gif)
 
 
 
